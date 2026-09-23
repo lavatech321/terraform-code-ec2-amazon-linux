@@ -1,2 +1,11 @@
-# terraform-code-ec2-amazon-linux
-Sample terraform code to launch ec2 instance with port 22 open
+# Terraform Getting started project
+
+This project covers below technologies
+* Git/GitHub
+* AWS
+* AWS CLI
+* Terraform
+
+## Steps to use this repository
+
+> git clone repository-url
